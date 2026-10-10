@@ -68,8 +68,8 @@ export const MODEL_PRICING = {
 
 ## Tech Stack
 
-- Frontend: [your frontend]
-- Backend: [your backend]
+- Frontend: react,html,css,javascript
+- Backend: MongoDB,React,Express,Node.js
 - Database: MongoDB
 - AI Provider: Groq API
 
